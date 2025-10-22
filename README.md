@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+🚀 Random Developer | Indonesia
+
+Self-taught developer focused on mobile development with Flutter.
+
+**Topics of Interest**
+- Flutter
+- Python
+- MySQL
+- IoT
+
+Open to collaboration and feedback! 🤝
 <!--
 **hatamirais/hatamirais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
