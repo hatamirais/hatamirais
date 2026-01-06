@@ -6,8 +6,8 @@ Self-taught developer focused on mobile development with Flutter.
 
 **Topics of Interest**
 - Flutter
-- Python
-- MySQL
+- Golang
+- PostgreSQL
 - IoT
 
 Open to collaboration and feedback! 🤝
