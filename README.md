@@ -2,7 +2,7 @@
 
 🚀 Random Developer | Indonesia
 
-Self-taught developer focused on mobile development with Flutter.
+Self-taught developer focused on mobile development with Flutter and backend stuff with Golang
 
 **Topics of Interest**
 - Flutter
