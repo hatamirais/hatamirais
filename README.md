@@ -2,11 +2,11 @@
 
 🚀 Random Developer | Indonesia
 
-Self-taught developer focused on mobile development with Flutter and backend stuff with Golang
+Self-taught developer focused on mobile development with Flutter and backend stuff with FastAPI
 
 **Topics of Interest**
 - Flutter
-- Golang
+- Python 
 - PostgreSQL
 - IoT
 
