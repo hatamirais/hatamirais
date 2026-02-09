@@ -2,12 +2,13 @@
 
 🚀 Random Developer | Indonesia
 
-Self-taught developer focused on mobile development with Flutter and backend stuff with FastAPI
+Self-taught full-stack developer on Mobile and Web Applications
 
 **Topics of Interest**
 - Flutter
-- Python 
+- FastAPI
 - PostgreSQL
+- Supabase
 - IoT
 
 Open to collaboration and feedback! 🤝
