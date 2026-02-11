@@ -6,7 +6,8 @@ Self-taught full-stack developer on Mobile and Web Applications
 
 **Topics of Interest**
 - Flutter
-- FastAPI
+- React
+- Django
 - PostgreSQL
 - Supabase
 - IoT
