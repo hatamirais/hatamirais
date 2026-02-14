@@ -14,7 +14,7 @@ Self-taught full-stack developer on Mobile and Web Applications
 
 Open to collaboration and feedback! 🤝
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatamirais)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatamirais)]
 <!--
 **hatamirais/hatamirais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
